@@ -1,5 +1,5 @@
 - Hola soy @NaiSorraEx
-- Me interesan los proyectos de desarrollo web y  androit. Ademas de una motivacion a temas de  ciberseguridad, hacking, etc.
+- Me interesan los proyectos de desarrollo web y  android. Ademas de una motivacion a temas de  ciberseguridad, hacking, etc.
 - Actualmente estoy aprendiendo sobre github, una herramienta nueva para mi, que espero me ayude a mejorar mis conocimientos sobre programacion.
 
 <!---
